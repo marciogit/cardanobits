@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cardanobits/static/css/main.72f8c9b0.chunk.css",
+    "main.js": "/cardanobits/static/js/main.74faf85b.chunk.js",
+    "main.js.map": "/cardanobits/static/js/main.74faf85b.chunk.js.map",
+    "runtime-main.js": "/cardanobits/static/js/runtime-main.01bc0638.js",
+    "runtime-main.js.map": "/cardanobits/static/js/runtime-main.01bc0638.js.map",
+    "static/js/2.8f819427.chunk.js": "/cardanobits/static/js/2.8f819427.chunk.js",
+    "static/js/2.8f819427.chunk.js.map": "/cardanobits/static/js/2.8f819427.chunk.js.map",
+    "index.html": "/cardanobits/index.html",
+    "static/css/main.72f8c9b0.chunk.css.map": "/cardanobits/static/css/main.72f8c9b0.chunk.css.map",
+    "static/js/2.8f819427.chunk.js.LICENSE.txt": "/cardanobits/static/js/2.8f819427.chunk.js.LICENSE.txt",
+    "static/media/bmd.css": "/cardanobits/static/media/PressStart2P-Regular.5f45b521.ttf",
+    "static/media/cheers.c32e197c.png": "/cardanobits/static/media/cheers.c32e197c.png",
+    "static/media/spinner.0c299348.gif": "/cardanobits/static/media/spinner.0c299348.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01bc0638.js",
+    "static/js/2.8f819427.chunk.js",
+    "static/css/main.72f8c9b0.chunk.css",
+    "static/js/main.74faf85b.chunk.js"
+  ]
+}
