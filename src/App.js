@@ -57,7 +57,7 @@ function App() {
 					{loading === false ?
 						<div className="bits-container">
 						{bits.filter(name => name.properties[0].value === `${typeBit}`).map((bits, i)=> (
-							<div className="scroll">
+							<div className="scroll" key={i}>
 								<p>{bits.name}</p>
 								<span className={`${bits.properties[0].value}`}>{bits.properties[0].value} / {i+1}</span>
 								<a href={"https://ipfs.blockfrost.dev/ipfs/" + `${bits.image}`} target="_blank" rel="noreferrer"><img src={`https://ipfs.blockfrost.dev/ipfs/${bits.image}`} alt=""/></a>
