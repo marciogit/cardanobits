@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'BMD Light';
+  src: url('BMD-Light.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BMD Medium';
+  src: url('BMD-Medium.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BMD Regular';
+  src: url('BMD-Regular.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BMD Bold';
+  src: url('BMD-Bold.ttf') format('truetype');
+}
+
+@font-face {
+  font-family: 'BMD Heavy';
+  src: url('BMD-Heavy.ttf') format('truetype');
+}
+
+@font-face {
+	font-family: 'Press';
+	src: url('PressStart2P-Regular.ttf') format('truetype');
+}
